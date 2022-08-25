@@ -1,5 +1,5 @@
 
-# Stable Diffusion JupyterLab Docker
+# 🐔 Stable Diffusion JupyterLab Docker
 
 Generate images with Stable Diffusion inside JupyterLab!
 
@@ -19,7 +19,7 @@ Generate images with Stable Diffusion inside JupyterLab!
  - Jump into the folder
 
     ```
-    cd xxxxxxxxx
+    cd stable-diffusion-jupyterlab-docker
     ```
 - Run container
 
