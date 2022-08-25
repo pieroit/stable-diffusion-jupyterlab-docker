@@ -1,0 +1,5 @@
+*.ipynb_checkpoints
+project/models/stable*
+project/___prove
+*.png
+*.jpg

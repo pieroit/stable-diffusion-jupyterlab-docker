@@ -1,0 +1,18 @@
+
+version: '3.9'
+
+services:
+
+    jupyter:
+        build: .
+        image: stable-diffusion
+        ports:
+            - 8888:8888
+        volumes:
+            - ./project:/project
+        command: jupyter lab --ip=0.0.0.0 --port=8888 --allow-root
+        deploy:
+            resources:
+                reservations:
+                    devices:
+                    - capabilities: [gpu]
