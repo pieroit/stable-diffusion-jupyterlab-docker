@@ -2,6 +2,12 @@
 # 🐔 Stable Diffusion JupyterLab Docker
 
 Generate images with Stable Diffusion inside JupyterLab!
+- start with one command
+- GPU ready
+- Notebooks included for:
+  - text2image
+  - image2image
+  - (coming soon) inpainting
 
 ## Prerequisites
 - [Docker](https://docs.docker.com/get-docker/)
