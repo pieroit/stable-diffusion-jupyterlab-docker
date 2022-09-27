@@ -7,7 +7,8 @@ Generate images with Stable Diffusion inside JupyterLab!
 - Notebooks included for:
   - text2image
   - image2image
-  - (coming soon) inpainting
+  - inpainting
+  - (coming soon) outpainting
 
 ## Prerequisites
 - [Docker](https://docs.docker.com/get-docker/)
