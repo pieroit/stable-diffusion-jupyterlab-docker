@@ -4,6 +4,8 @@ version: '3.9'
 services:
 
     jupyter:
+        environment:
+            JUPYTER_TOKEN: "docker"
         build: .
         image: stable-diffusion
         ports:
