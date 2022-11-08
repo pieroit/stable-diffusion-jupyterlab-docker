@@ -1,6 +1,7 @@
 *.ipynb_checkpoints
 *__pycache__
-project/models/stable*
+project/models/*
 project/___prove
 *.png
 *.jpg
+*.token
