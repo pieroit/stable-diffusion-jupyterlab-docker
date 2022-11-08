@@ -14,7 +14,7 @@ Generate images with Stable Diffusion inside JupyterLab!
 - [Docker](https://docs.docker.com/get-docker/)
 - [Docker compose](https://docs.docker.com/compose/install/)
 - [Nvidia-docker](https://github.com/NVIDIA/nvidia-docker)
-- Log into Huggin Face and accept [Stable Diffusion License](https://huggingface.co/CompVis/stable-diffusion-v1-4)
+- Log into Huggin Face and accept [Stable Diffusion License](https://huggingface.co/runwayml/stable-diffusion-v1-5)
 - Generate a [Hugging Face token](https://huggingface.co/settings/tokens)
 
 ## How to run
